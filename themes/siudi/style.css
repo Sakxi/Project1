@@ -1,0 +1,13 @@
+/*
+Theme Name: Siudi
+Theme URI: https://wordpress.org/themes/twentyseventeen/
+Author: the WordPress team
+*/
+.single-team-member .img-holder img{
+    height: 270px !important;
+
+}
+
+#fld_9356744_1{
+    height: 60px !important;
+}
